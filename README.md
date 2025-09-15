@@ -222,4 +222,55 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-*Last updated: September 11, 2025*
+## 🇹🇷 Türkçe Özet
+
+Deep_Research, kapsamlı AI destekli araştırma iş akışları için geliştirilmiş gelişmiş bir otomasyon sistemidir. Kullanıcı girdisinden final raporuna kadar tüm araştırma sürecini yönetir.
+
+### 🎯 Ana Özellikler
+
+**1. Çoklu Ajan Sistemı**
+- **Koordinatör Ajan**: Araştırma sürecini yöneten ana ajan
+- **Uzman Ajanlar**: Her biri farklı alanlarda uzmanlaşmış araştırma ajanları
+- **İş Birliği**: Ajanlar birlikte çalışarak kapsamlı araştırma yapar
+
+**2. Akıllı Araştırma Süreci**
+- **Kullanıcı Netleştirme**: Belirsiz sorular otomatik olarak netleştirilir
+- **Kapsam Belirleme**: Araştırma alanı ve derinliği tanımlanır
+- **Özet Oluşturma**: Kullanıcı ihtiyaçlarına göre araştırma özeti hazırlanır
+
+**3. Profesyonel Rapor Üretimi**
+- **Veri Sentezi**: Tüm araştırma bulgularını birleştirir
+- **Yapılandırılmış Çıktı**: Profesyonel format ile rapor oluşturur
+- **Tarihli Teslimat**: Zaman damgalı sonuçlar verir
+
+### 🛠️ Teknoloji Altyapısı
+
+- **LangChain & LangGraph**: Modern AI ajan mimarisi
+- **OpenAI GPT-4 / Anthropic Claude**: En güncel dil modelleri
+- **Google & Tavily API**: Güçlü web araştırma yetenekleri
+- **Python Tabanlı**: Sağlam ve ölçeklenebilir kodlama
+
+### 💡 Kullanım Alanları
+
+- **Akademik Araştırma**: Literatür tarama ve analiz
+- **Pazar Araştırması**: Rekabet analizi ve trend takibi
+- **Teknik Dokümantasyon**: Kompleks konularda detaylı raporlama
+- **Stratejik Planlama**: Kapsamlı sektör analizleri
+- **İçerik Üretimi**: Derinlemesine araştırma gerektiren yazılar
+
+### 🚀 Nasıl Çalışır?
+
+1. **Soru Sorma**: "AI güvenliği konusundaki son gelişmeleri araştır"
+2. **Otomatik Netleştirme**: Sistem soruyu detaylandırır ve kapsamını belirler
+3. **Çoklu Ajan Araştırması**: Farklı ajanlar paralel olarak araştırma yapar
+4. **Kapsamlı Rapor**: Tüm bulgular birleştirilerek profesyonel rapor oluşturulur
+
+### 🔧 Kurulum ve Kullanım
+
+Proje Python 3.8+ gerektirir ve LangChain ekosistemini kullanır. API anahtarları (.env dosyası) ile konfigüre edilir ve basit Python komutları ile çalıştırılır.
+
+Bu sistem, araştırma sürecinizi otomatikleştirerek zamanınızı önemli ölçüde kazandırır ve profesyonel kalitede sonuçlar üretir.
+
+---
+
+*Son güncelleme: 11 Eylül 2025*
